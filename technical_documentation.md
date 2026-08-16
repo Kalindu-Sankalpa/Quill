@@ -36,7 +36,7 @@ Quill follows the **MVVM (Model-View-ViewModel)** pattern combined with a clean 
 │  EditorViewModel                                                            │
 │  ├── UndoRedoManager (In-Memory ArrayDeque Stack)                           │
 │  ├── DeltaEngine (java-diff-utils Patch / Reconstruct)                      │
-│  └── Syntax Highlighters (KotlinHighlighter, MarkdownHighlighter)          │
+│  └── Syntax Highlighters (KotlinHighlighter, MarkdownHighlighter)           │
 └──────────┬───────────────────┬───────────────────────────┬──────────────────┘
            │                   │                           │
 ┌──────────▼───────────────────▼───────────────────────────▼──────────────────┐
