@@ -224,11 +224,11 @@ The project includes 17 pure JVM unit tests passing in `./gradlew testDebugUnitT
 
 ## 8. Group Member Roles & Responsibilities
 
-| Team Member | Assigned Module | Key Delivered Components |
-|---|---|---|
-| **Member 1** | **Module A — Editor Engine & Syntax Highlighting** | `CodeEditor`, `KotlinHighlighter`, `MarkdownHighlighter`, `UndoRedoManager`, SAF File I/O |
-| **Member 2** | **Module B — Delta Version Control System** | `DeltaEngine`, Room DB entities (`FileEntity`, `VersionEntity`), `VersionRepository`, `DiffViewerScreen` |
-| **Member 3** | **Module C — UX, Recovery & Markdown Preview** | `CrashRecoveryManager`, `MarkdownPreview`, `SettingsScreen`, `DataStore` preferences, Material 3 theming |
+| Team Member         | Assigned Module | Key Delivered Components |
+|---------------------|---|---|
+| **Chaluka Kavinka** | **Module A — Editor Engine & Syntax Highlighting** | `CodeEditor`, `KotlinHighlighter`, `MarkdownHighlighter`, `UndoRedoManager`, SAF File I/O |
+| **Member 2**        | **Module B — Delta Version Control System** | `DeltaEngine`, Room DB entities (`FileEntity`, `VersionEntity`), `VersionRepository`, `DiffViewerScreen` |
+| **Member 3**        | **Module C — UX, Recovery & Markdown Preview** | `CrashRecoveryManager`, `MarkdownPreview`, `SettingsScreen`, `DataStore` preferences, Material 3 theming |
 
 ---
 *Document Version 1.0 — Produced for IS2205 Mini-Project Submission*
