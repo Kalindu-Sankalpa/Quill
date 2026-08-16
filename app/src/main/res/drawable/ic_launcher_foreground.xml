@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylised quill feather -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,28 C48,32 32,56 28,80 C30,78 34,76 40,75 C58,70 74,52 80,28 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,75 L27,82 L32,68 Z" />
+    <path
+        android:strokeColor="#0B4F52"
+        android:strokeWidth="2.5"
+        android:pathData="M66,42 L38,72" />
+</vector>

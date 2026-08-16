@@ -1,0 +1,26 @@
+# Built files
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Gradle / build output
+.gradle/
+build/
+/app/build/
+
+# Local configuration (machine-specific — must not be committed)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs
+*.log
